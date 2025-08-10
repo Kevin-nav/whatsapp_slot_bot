@@ -1,4 +1,4 @@
-# GEMINI Project Analysis: wa-slotbot
+# Project Architecture Analysis: wa-slotbot
 
 ## Project Overview
 
