@@ -23,7 +23,7 @@ This bot is optimized for speed, featuring sub-millisecond response times by usi
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Kevin-nav/whatsapp_slot_bot.git
 cd wa-slotbot
 npm install
 ```
