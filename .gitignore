@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local Authentication
+# IMPORTANT: This directory contains your WhatsApp session credentials.
+# Never commit it to GitHub.
+auth/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+error.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+GEMINI.md
